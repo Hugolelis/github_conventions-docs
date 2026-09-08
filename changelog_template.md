@@ -1,8 +1,8 @@
 <!--
   HOW TO USE THIS TEMPLATE
-  <!-- --> comments don't show up when GitHub renders the markdown —
-  you can leave them in the file until publishing and remove them afterward,
-  or delete each one as you fill in that section.
+  These HTML comments don't show up when GitHub renders the markdown — you
+  can leave them in the file until publishing and remove them afterward, or
+  delete each one as you fill in that section.
 
   Format: Keep a Changelog + Semantic Versioning, with ONE deliberate variation:
   "Updated" instead of "Changed" (the official standard uses "Changed" — this

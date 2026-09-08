@@ -1,17 +1,11 @@
 <!--
   HOW TO USE THIS TEMPLATE
-  <!-- --> comments are just for you, they don't show up when GitHub renders
-  the markdown — you can leave them in the file until publishing and remove
-  them afterward, or delete each one as you fill in that section.
+  These HTML comments are just for you — they don't show up when GitHub
+  renders the markdown. Leave them in until you publish, or delete each one
+  as you fill in that section.
 
-  README CONTENT (headings, text) stays in English — it's the standard for a
+  README content (headings, text) stays in English — it's the standard for a
   public GitHub repo, it reaches any recruiter/dev browsing your profile.
-
-  Refined from the actual Generator API README — this version already
-  incorporates what worked there: a "Why this shape" + "Known limitations"
-  section inside Architecture, for-the-badge-style badges, a collapsible ToC,
-  and naming the technical reference section according to the project type
-  (API Reference / Commands / Public API).
 -->
 
 # Project Name
@@ -19,7 +13,7 @@
 <!--
   Direct title + one line right below saying WHAT the project does and FOR
   WHOM. Avoid generic phrases like "This is a project that...". Get straight
-  to the point, in the same tone as: "Generator API is a high-performance
+  to the point, in the same tone as: "<ProjectName> is a high-performance
   REST API for..."
 -->
 > One clear sentence: what it does, in what context, and the main technical differentiator (if any).
@@ -77,8 +71,7 @@
   - Why did you decide to build this (from scratch, without lib X, with
     approach Y)?
   - What was the main technical challenge?
-  2-4 sentences, no filler — see the Generator API's "About" as a reference
-  for tone.
+  2-4 sentences, no filler.
 -->
 
 ---
@@ -191,14 +184,12 @@ cd your-project
 
 <!--
   Rename this section based on the project type:
-  - API → "API Reference" (endpoint table + parameter table, like the
-    Generator API)
+  - API → "API Reference" (endpoint table + parameter table)
   - CLI → "Commands" (command table + flags)
   - Lib → "Public API" (exported functions/classes and signatures)
   If the project has relevant operational behavior (rate limiting, retry
   policy, exit codes), document it right after this section, with the
-  behavior's own name as the title (e.g. "## Rate Limiting", like the
-  Generator API did).
+  behavior's own name as the title (e.g. "## Rate Limiting").
 -->
 
 | Method/Command | Description |
