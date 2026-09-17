@@ -15,6 +15,7 @@ Format: `project-name-suffix`, in kebab-case, all lowercase.
 | `-infra` | Infrastructure as code (Terraform, Docker, k8s) |
 | `-web` | Frontend, when kept in a repo separate from the backend |
 | `-docs` | Documentation separate from the code |
+| `-ai` | ML/AI project (e.g. computer vision, NLP) whose primary product is a model or inference pipeline |
 
 ## Suffixes — study and learning
 
@@ -53,6 +54,7 @@ When the project will eventually gain multiple faces (e.g. an algorithm that lat
 - `auth-service`
 - `billing-service`
 - `qrcode-lib` (encoding algorithm built from scratch) → later `qrcode-cli` and/or `qrcode-api` as layers on top
+- `object-detector-ai`
 - `backend-roadmap`
 - `sql-study`
 - `algorithms-exercises`
