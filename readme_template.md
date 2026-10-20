@@ -1,10 +1,10 @@
 <!--
   HOW TO USE THIS TEMPLATE
-  These HTML comments are just for you — they don't show up when GitHub
+  These HTML comments are just for you. They don't show up when GitHub
   renders the markdown. Leave them in until you publish, or delete each one
   as you fill in that section.
 
-  README content (headings, text) stays in English — it's the standard for a
+  README content (headings, text) stays in English: it's the standard for a
   public GitHub repo, it reaches any recruiter/dev browsing your profile.
 -->
 
@@ -21,12 +21,12 @@
 <div align="left">
 
 <!--
-  Badges always at the top, right below the tagline — they convey engineering
+  Badges always at the top, right below the tagline: they convey engineering
   maturity before anyone reads a single line. Use the SAME style across all
   your repos to build consistent visual identity between projects (that's
   what actually "catches the eye", not all-caps in the name):
   style=for-the-badge, same background color everywhere.
-  Generate the real ones at https://shields.io — license, main language/
+  Generate the real ones at https://shields.io: license, main language/
   framework(s), version, and "last commit" if the repo already has history.
   No CI set up yet? Swap the build badge for a static one instead of removing
   the line (e.g. "status: in development").
@@ -38,7 +38,7 @@
 </div>
 
 <!--
-  Collapsible ToC — use it in READMEs with 6+ sections; for a short README you
+  Collapsible ToC: use it in READMEs with 6+ sections; for a short README you
   can remove the whole block. Always use a relative anchor (#section), never
   an absolute URL: it works the same, stays cleaner in the source, and won't
   break if the repo is renamed/forked. Adjust the items to match the sections
@@ -66,7 +66,7 @@
 
 <!--
   This is the section that separates a junior README from a senior one.
-  Don't just describe what the code does — explain the WHY:
+  Don't just describe what the code does. Explain the WHY:
   - What real problem does this solve?
   - Why did you decide to build this (from scratch, without lib X, with
     approach Y)?
@@ -82,7 +82,7 @@
   If it's a CLI: a GIF or code block showing real input/output.
   If it's web/design: a screenshot or link to the deployment.
   If it's a lib: a code snippet showing usage.
-  If it's an API: you can SKIP this section — the curl examples in "Usage"
+  If it's an API: you can SKIP this section: the curl examples in "Usage"
   already fill that role (that's what the Generator API did). Don't force a
   redundant Demo.
 -->
@@ -114,9 +114,9 @@
   This section is what separates senior level from junior the most. Cover, in
   this order:
   1. How the project is organized (folder tree + what each layer does)
-  2. "Why this shape:" — why this organization, why this lib/framework
-     instead of the obvious alternative, what each trade-off bought you
-  3. "Known limitations:" — what you know is missing or fragile today.
+  2. "Why this shape:" (why this organization, why this lib/framework
+     instead of the obvious alternative, what each trade-off bought you)
+  3. "Known limitations:" (what you know is missing or fragile today).
      This isn't a weakness, it's a sign that you understand your own system.
 -->
 
@@ -155,7 +155,7 @@ cd your-project
 <!-- If there's a .env, document each variable and its purpose. Never commit real values. -->
 | Variable | Default | Description |
 |---|---|---|
-| `EXAMPLE_VAR` | — | What it controls |
+| `EXAMPLE_VAR` | - | What it controls |
 
 ### Running locally
 
@@ -205,5 +205,5 @@ Distributed under the **MIT License**.
 
 ## Author
 
-<!-- Name + GitHub (and LinkedIn, if you want) — makes it easy for a recruiter to find you -->
-**Your Name** — [GitHub](https://github.com/your-username)
+<!-- Your GitHub username (and LinkedIn, if you want): makes it easy for a recruiter to find you -->
+[your-username](https://github.com/your-username)

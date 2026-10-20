@@ -1,6 +1,6 @@
 # GitHub Conventions Docs
 
-> Personal collection of GitHub conventions and templates — commit message format, changelog structure, repository naming, and a README template — kept consistent across every project.
+> Personal collection of GitHub conventions and templates (commit message format, changelog structure, repository naming, and a README template) kept consistent across every project.
 
 <div align="left">
 
@@ -23,7 +23,7 @@
 
 ## About
 
-Every new project starts with the same small decisions — how to name the repo, how to format commits, how to structure a changelog, what a good README looks like — and re-deciding them each time wastes effort and drifts inconsistent over time. This repo is the single source of truth for those decisions: each file documents one convention in full, so it can be read on its own or copied straight into a new project.
+Every new project starts with the same small decisions (how to name the repo, how to format commits, how to structure a changelog, what a good README looks like) and re-deciding them each time wastes effort and drifts inconsistent over time. This repo is the single source of truth for those decisions: each file documents one convention in full, so it can be read on its own or copied straight into a new project.
 
 ---
 
@@ -56,4 +56,4 @@ Then follow [github-repo-naming.md](github-repo-naming.md) to name the repositor
 
 ## Author
 
-**Hugo Delelis** — [GitHub](https://github.com/hugolelis)
+[Hugolelis](https://github.com/Hugolelis)
