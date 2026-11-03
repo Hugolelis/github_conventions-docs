@@ -17,7 +17,7 @@ Format: `project-name-suffix`, in kebab-case, all lowercase.
 | `-docs` | Documentation separate from the code |
 | `-ai` | ML/AI project (e.g. computer vision, NLP) whose primary product is a model or inference pipeline |
 
-## Suffixes — study and learning
+## Suffixes study and learning
 
 | Suffix | Use |
 |---|---|
