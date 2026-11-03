@@ -8,10 +8,9 @@ Format: `project-name-suffix`, in kebab-case, all lowercase.
 |---|---|
 | `-api` | REST or GraphQL backend |
 | `-cli` | Command-line tool |
-| `-service` | Microservice (when there are several within the same domain) |
 | `-worker` | Asynchronous processing / background jobs |
 | `-lib` | Reusable library/package, no standalone use |
-| `-sdk` | Client for consuming your own API |
+| `-product` | Complete and functional tools for the market |
 | `-infra` | Infrastructure as code (Terraform, Docker, k8s) |
 | `-web` | Frontend, when kept in a repo separate from the backend |
 | `-docs` | Documentation separate from the code |
