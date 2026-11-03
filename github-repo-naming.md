@@ -2,7 +2,7 @@
 
 Format: `project-name-suffix`, in kebab-case, all lowercase.
 
-## Suffixes — projects/products
+## Suffixes projects/products
 
 | Suffix | Use |
 |---|---|
