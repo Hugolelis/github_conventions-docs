@@ -50,9 +50,7 @@ When the project will eventually gain multiple faces (e.g. an algorithm that lat
 - `task-manager-api`
 - `task-manager-cli`
 - `task-manager-worker`
-- `auth-service`
-- `billing-service`
-- `qrcode-lib` (encoding algorithm built from scratch) → later `qrcode-cli` and/or `qrcode-api` as layers on top
+- `qrcode-lib`
 - `object-detector-ai`
 - `backend-roadmap`
 - `sql-study`
