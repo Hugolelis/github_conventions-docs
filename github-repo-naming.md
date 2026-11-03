@@ -12,6 +12,7 @@ Format: `project-name-suffix`, in kebab-case, all lowercase.
 | `-lib` | Reusable library/package, no standalone use |
 | `-product` | Complete and functional tools for the market |
 | `-infra` | Infrastructure as code (Terraform, Docker, k8s) |
+| `-portfolio` | my personal site |
 | `-web` | Frontend, when kept in a repo separate from the backend |
 | `-docs` | Documentation separate from the code |
 | `-ai` | ML/AI project (e.g. computer vision, NLP) whose primary product is a model or inference pipeline |
