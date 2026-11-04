@@ -30,7 +30,9 @@
   this order: License, Status and Version. Language, runtime and framework
   versions (Node 18+, Python 3.11+, etc.) do NOT go in badges: list them in
   the Tech Stack section instead.
-  Suggested Status values: Active, In Development, Maintenance, Archived.
+  Suggested Status values: Active, In Development, Studying, Maintenance,
+  Archived. In Development is only for a project being built right now;
+  Studying is for study logs and learning repos.
   Repos with no versioning (study logs, documentation) can omit Version.
 -->
 [![License](https://img.shields.io/badge/License-MIT-1a1a2e?style=for-the-badge&logoColor=white)](LICENSE)
