@@ -26,13 +26,15 @@
   your repos to build consistent visual identity between projects (that's
   what actually "catches the eye", not all-caps in the name):
   style=for-the-badge, same background color everywhere.
-  Generate the real ones at https://shields.io: license, main language/
-  framework(s), version, and "last commit" if the repo already has history.
-  No CI set up yet? Swap the build badge for a static one instead of removing
-  the line (e.g. "status: in development").
+  Generate the real ones at https://shields.io. Only three badges, always in
+  this order: License, Status and Version. Language, runtime and framework
+  versions (Node 18+, Python 3.11+, etc.) do NOT go in badges: list them in
+  the Tech Stack section instead.
+  Suggested Status values: Active, In Development, Maintenance, Archived.
+  Repos with no versioning (study logs, documentation) can omit Version.
 -->
 [![License](https://img.shields.io/badge/License-MIT-1a1a2e?style=for-the-badge&logoColor=white)](LICENSE)
-[![Language](https://img.shields.io/badge/Language-000000-1a1a2e?style=for-the-badge&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Active-1a1a2e?style=for-the-badge&logoColor=white)]()
 [![Version](https://img.shields.io/badge/Version-1.0.0-1a1a2e?style=for-the-badge&logoColor=white)]()
 
 </div>

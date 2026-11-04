@@ -4,8 +4,7 @@
 
 <div align="left">
 
-[![Type](https://img.shields.io/badge/Type-Documentation-1a1a2e?style=for-the-badge&logoColor=white)]()
-[![Format](https://img.shields.io/badge/Format-Markdown-1a1a2e?style=for-the-badge&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Active-1a1a2e?style=for-the-badge&logoColor=white)]()
 
 </div>
 
