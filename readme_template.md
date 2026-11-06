@@ -27,8 +27,9 @@
   what actually "catches the eye", not all-caps in the name):
   style=for-the-badge, dark label (labelColor=1a1a1a) on every badge.
   Colors come from the portfolio palette. License and Version are metadata
-  and share one fixed color, 806b97 (purple). Status takes its color from
-  the state: Active and Live 407a50 (green), In Development a16207 (amber),
+  and share one fixed color, 0f766e (teal), used by no other badge. Status
+  takes its color from the state: Active and Live 407a50 (green),
+  In Development a16207 (amber),
   Studying 52719d (blue), Maintenance 858582 (gray), Archived 5e5e5e.
   Generate the real ones at https://shields.io. Only three badges, always in
   this order: License, Status and Version. Language, runtime and framework
@@ -39,9 +40,9 @@
   Studying is for study logs and learning repos.
   Repos with no versioning (study logs, documentation) can omit Version.
 -->
-[![License](https://img.shields.io/badge/License-MIT-806b97?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-0f766e?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-407a50?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-806b97?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-0f766e?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
 
 </div>
 
