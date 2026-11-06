@@ -25,7 +25,11 @@
   maturity before anyone reads a single line. Use the SAME style across all
   your repos to build consistent visual identity between projects (that's
   what actually "catches the eye", not all-caps in the name):
-  style=for-the-badge, same background color everywhere.
+  style=for-the-badge, dark label (labelColor=1a1a1a) on every badge.
+  Color only where it carries meaning, using the portfolio palette:
+  License and Version stay neutral (2a2a2a); Status takes its own color:
+  Active and Live 407a50 (green), In Development a16207 (amber),
+  Studying 52719d (blue), Maintenance 858582 (gray), Archived 5e5e5e.
   Generate the real ones at https://shields.io. Only three badges, always in
   this order: License, Status and Version. Language, runtime and framework
   versions (Node 18+, Python 3.11+, etc.) do NOT go in badges: list them in
@@ -35,9 +39,9 @@
   Studying is for study logs and learning repos.
   Repos with no versioning (study logs, documentation) can omit Version.
 -->
-[![License](https://img.shields.io/badge/License-MIT-1a1a2e?style=for-the-badge&logoColor=white)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-1a1a2e?style=for-the-badge&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-1a1a2e?style=for-the-badge&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-MIT-2a2a2a?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-407a50?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-2a2a2a?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
 
 </div>
 
