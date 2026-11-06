@@ -26,8 +26,8 @@
   your repos to build consistent visual identity between projects (that's
   what actually "catches the eye", not all-caps in the name):
   style=for-the-badge, dark label (labelColor=1a1a1a) on every badge.
-  Color only where it carries meaning, using the portfolio palette:
-  License and Version stay neutral (2a2a2a); Status takes its own color:
+  Each badge has its own fixed color: License facc15 (yellow), Version
+  ea580c (orange), and Status by state, using the portfolio palette:
   Active and Live 407a50 (green), In Development a16207 (amber),
   Studying 52719d (blue), Maintenance 858582 (gray), Archived 5e5e5e.
   Generate the real ones at https://shields.io. Only three badges, always in
@@ -39,9 +39,9 @@
   Studying is for study logs and learning repos.
   Repos with no versioning (study logs, documentation) can omit Version.
 -->
-[![License](https://img.shields.io/badge/License-MIT-2a2a2a?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-facc15?style=for-the-badge&labelColor=1a1a1a&logoColor=white)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-407a50?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
-[![Version](https://img.shields.io/badge/Version-1.0.0-2a2a2a?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-ea580c?style=for-the-badge&labelColor=1a1a1a&logoColor=white)]()
 
 </div>
 
